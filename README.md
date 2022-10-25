@@ -7,6 +7,8 @@ You can modify the parameters as your wishes, including the diary file name form
 
 ## Daily Diary
 
+Two buttons link to yesterday diary and tomorrow diary. (The code refers to community)
+
 It will display three tables:
 - The notes that were created yesterday
 - The notes that were created today
